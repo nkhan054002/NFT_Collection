@@ -5,8 +5,8 @@ require("dotenv").config({
 
 // const ALCHEMY_API_KEY_URL = process.env.ALCHEMY_API_KEY_URL;
 // const RINKEBY_PRIVATE_KEY = process.env.RINKEBY_PRIVATE_KEY;
-const ALCHEMY_API_KEY_URL = "https://eth-rinkeby.alchemyapi.io/v2/_IKtGrVDOzmiIFFlbDzm3VoY58GZmKmw";
-const RINKEBY_PRIVATE_KEY = "0xd2fc22f789b46434222a49b73d5bd4212fd3ee92b458359e223748138703799a";
+const ALCHEMY_API_KEY_URL = "";
+const RINKEBY_PRIVATE_KEY = "";
 console.log(process.env)
 module.exports = {
   solidity:{
