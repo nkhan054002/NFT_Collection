@@ -1,0 +1,19 @@
+NFT cant be broken into pieces 
+ERC-721 is an open standard that describes how to build Non-Fungible tokens on EVM (Ethereum Virtual Machine) compatible 
+blockchains; it is a standard interface for Non-Fungible tokens; it has a set of rules which make it easy to work with 
+NFTs. Before moving ahead have a look at all the functions supported by ERC721
+
+ERC1155 
+same metadata, NFTs
+every student gets same NFT, eg: learnweb3dao.io 
+
+721:
+EIP NFT standard 
+
+Ownable.sol:
+ownership standard 
+
+renounce ownership, owner of smart contract = null 
+
+
+we
